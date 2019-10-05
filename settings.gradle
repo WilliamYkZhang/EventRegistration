@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'EventRegistration'
+
+include ':EventRegistration-Backend'
